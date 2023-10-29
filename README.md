@@ -14,9 +14,8 @@ I love the entire process of developing creative Solutions ( Web / Mobile / Embe
 
 ### 🤝 Connect with me:
 
+
 <a href="https://www.linkedin.com/in/abdelbaki-bouzaienne-367b8132/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abdelbaki Bouzaienne | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/baki.bouz"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" altAbdelbaki Bouzaienne | Instagram" width="21px"/></a>
-<a href="https://bakibouz.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Abdelbaki Bouzaienne | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
