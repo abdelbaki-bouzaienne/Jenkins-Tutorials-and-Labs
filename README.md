@@ -1,4 +1,4 @@
-1. TUTORIALS
+-----------------------------------------------------------------------1. TUTORIALS-----------------------------------------------------------------------
 
 🔴 Learn Jenkins! Complete Jenkins Course -
 Zero to Hero
@@ -29,47 +29,47 @@ https://lnkd.in/dRXbYtXd
 
 https://lnkd.in/dVcxrYE3
 
-2. LABS
+-----------------------------------------------------------------------2. LABS-----------------------------------------------------------------------
 
-🔴 Jenkins Tutorial - How to Deploy a Test Server with Docker + Linux (Full Course)
+01-🔴 Jenkins Tutorial - How to Deploy a Test Server with Docker + Linux (Full Course)
 
 https://lnkd.in/dNG2jBFN
 
-🔴 Live DevOps Project for Resume - Jenkins
+02-🔴 Live DevOps Project for Resume - Jenkins
 CICD with Git Hub Integration
 
 https://lnkd.in/dGcmFHMY
 
-🔴 JENKINS PIPELINE FROM SCRATCH
+03-🔴 JENKINS PIPELINE FROM SCRATCH
 
 https://lnkd.in/dm29aWBa
 
-🔴 Amit Kumar Gupta : Cicd Series 1-9
+04-🔴 Amit Kumar Gupta : Cicd Series 1-9
 
 https://lnkd.in/dvitBdfd
 
-🔴 CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins
+05-🔴 CICD pipeline for Java application to deploy on kubernetes cluster using Jenkins
 
 https://lnkd.in/dNG4BaJu
 
-🔴 Jenkins Cicd deployment
+06-🔴 Jenkins Cicd deployment
 
 https://lnkd.in/dhNjHvjH
 
-🔴 Mega Real-time End to End DevOps CI/CD Project Git Jenkins Nexus SonarQube| HandsOn Lab
+07-🔴 Mega Real-time End to End DevOps CI/CD Project Git Jenkins Nexus SonarQube| HandsOn Lab
 
 https://lnkd.in/deCvSKf7
 
-🔴 Setting up CI-CD Pipeline for an E-Commerce App
+08-🔴 Setting up CI-CD Pipeline for an E-Commerce App
 
 https://lnkd.in/dPH4z4Af
 
 https://lnkd.in/d-xzCR8F
 
-🔴 Jenkins CI/CD Workflow Implementation with Real-time
+09-🔴 Jenkins CI/CD Workflow Implementation with Real-time
 
 https://lnkd.in/daGQ28BC
 
-🔴 Production Ready CI/CD Pipeline Setup
+10-🔴 Production Ready CI/CD Pipeline Setup
 
 https://lnkd.in/d_BeVj65# Jenkins-Tutorials-and-Labs
