@@ -1,47 +1,4 @@
-<script type="text/javascript" charset="utf-8">
-
-				  $('.navigation').each(function () {
-				    var $links = $(this).find('a'),
-				      panelIds = $links.map(function() { return this.hash; }).get().join(","),
-				      $panels = $(panelIds),
-				      $panelwrapper = $panels.filter(':first').parent(),
-				      delay = 500,
-				      heightOffset = 40; // we could add margin-top + margin-bottom + padding-top + padding-bottom of $panelwrapper
-				      $('#victor').load('[txt_article_1.html](https://sajbisnljkgzjvu7ml06gq.on.drv.tw/mes%20cours/slide/iot.html)');
-					  
-				    $panels.hide();
-
-				    $links.click(function () {
-				      var link = this, 
-				        $link = $(this);
-
-				      // ignore if already visible
-				      if ($link.is('.selected')) {
-				        return false;
-				      }	  
-
-				      $links.removeClass('selected');
-				      $link.addClass('selected');
-
-				      if ($.support.opacity) {
-				        $panels.stop().animate({opacity: 0 }, delay);
-				      }
-
-				      $panelwrapper.stop().animate({
-				        height: 0
-				      }, delay, function () {
-				        var height = $panels.hide().filter(link.hash).css('opacity', 1).show().height() + heightOffset;
-
-				      $panelwrapper.animate({
-				          height: height
-				      }, delay);
-				      });
-				    });
-
-					$links.filter(window.location.hash ? '[hash=' + window.location.hash + ']' : ':first').click();
-
-				  });
-				</script>
+<iframe src="[ta page oueb.html](https://sajbisnljkgzjvu7ml06gq.on.drv.tw/mes%20cours/slide/iot.html)"</iframe>
 
 <h3 align="center">
 Hi there, I'm <a href="http://www.sites.google.com/view/abdelbakibouzaienne/" target="_blank" rel="noreferrer">Abdelbaki</a> 👋
